@@ -1,3 +1,5 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=musaprg)](https://github.com/anuraghazra/github-readme-stats)
+
 If you want more details, please go to [mssn.dev](https://mssn.dev)
 
 ## Projects :construction:
