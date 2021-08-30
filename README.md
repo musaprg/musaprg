@@ -8,6 +8,6 @@ coming soon...
 
 ## Continuous Contribution :sparkles:
 
-- [GetEnvoy](https://github.com/tetratelabs/getenvoy)
+- [func-e](https://github.com/tetratelabs/func-e)
 - [Envoy Proxy](https://github.com/envoyproxy/envoy)
 - [Istio](https://github.com/istio/istio)
