@@ -1,4 +1,4 @@
-(wanna be) Software Engineer, pythonista and golanger ʕ◔ϖ◔ʔ.
+Software Engineer, pythonista and golanger ʕ◔ϖ◔ʔ.
 
 Handle: むさしん(mu’sashi-n), musaprg
 
