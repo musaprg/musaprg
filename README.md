@@ -1,5 +1,5 @@
-Software Engineer, pythonista and gopher ʕ◔ϖ◔ʔ.
+# Hi, I'm むさしん
 
-Handle: むさしん(mu’sashi-n), musaprg
+Kotaro INOUE (a.k.a むさしん, musaprg) is a Software Engineer, pythonista, and gopher ʕ◔ϖ◔ʔ.
 
 Interest: Secure computing, Distributed system, Automation
