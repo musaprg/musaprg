@@ -22,6 +22,18 @@ Kotaro INOUE (a.k.a むさしん, musaprg) is a Software Engineer, pythonista, a
 
 I'm interested in Containers, Distributed systems, Automation, and Secure computing.
 
+For more details, see [mssn.dev](https://mssn.dev)
+
+### Actively working on
+
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+
+### Contact me
+
+- Email: mail@mssn.dev
+- Twitter: [@musaprg](https://twitter.com/musaprg)
+
 [![](https://raw.githubusercontent.com/musaprg/musaprg/master/github-metrics.svg)](https://github.com/sponsors/musaprg?preview=true)
 
 [![](https://raw.githubusercontent.com/musaprg/musaprg/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
