@@ -31,10 +31,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Tokyo
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
           plugin_sponsors: yes
-          plugin_sponsors_sections: goal, list, about
+          plugin_sponsors_sections: goal, list
           plugin_sponsors_size: 24
           plugin_sponsors_title: Sponsor Me!
