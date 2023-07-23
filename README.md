@@ -20,8 +20,9 @@
 
 Kotaro INOUE (a.k.a むさしん, musaprg) is a Software Engineer, pythonista, and gopher ʕ◔ϖ◔ʔ.
 
-I'm interested in Containers, Distributed systems, Automation, and Secure computing. 
+I'm interested in Containers, Distributed systems, Automation, and Secure computing.
+
+[![](https://raw.githubusercontent.com/musaprg/musaprg/master/github-metrics.svg)](https://raw.githubusercontent.com/musaprg/musaprg/master/github-metrics.svg)
 
 [![](https://raw.githubusercontent.com/musaprg/musaprg/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/musaprg/musaprg/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/musaprg/musaprg/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/musaprg/musaprg/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/musaprg/musaprg/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
