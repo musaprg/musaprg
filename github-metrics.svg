@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="462" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="416" class="">
     <defs>
         <style/>
     </defs>
@@ -179,7 +179,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.565 20.565 0 008 13.393a20.561 20.561 0 003.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.75.75 0 01-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5zM8 14.25l-.345.666-.002-.001-.006-.003-.018-.01a7.643 7.643 0 01-.31-.17 22.075 22.075 0 01-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.08 22.08 0 01-3.744 2.584l-.018.01-.006.003h-.002L8 14.25zm0 0l.345.666a.752.752 0 01-.69 0L8 14.25z"/>
                                     </svg>
-                                    1 Sponsor
+                                    0 Sponsors
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -214,17 +214,17 @@
                 <div class="fill-width">
                     <section class="sponsors goal">
                         <div class="goal-text">
-                            <span>1 sponsor is funding musaprg's work</span>
+                            <span>
+                            </span>
                         </div>
                         <div class="row">
-                            <img class="avatar " src="data:image/png;base64,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" width="24" height="24" alt="" />
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Oct 2023, 00:14:51 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Oct 2023, 01:18:42 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
