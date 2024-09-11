@@ -35,6 +35,3 @@ For more details, see [mssn.dev](https://mssn.dev)
 - Twitter: [@musaprg](https://twitter.com/musaprg)
 
 [![](https://raw.githubusercontent.com/musaprg/musaprg/master/github-metrics.svg)](https://github.com/sponsors/musaprg?preview=true)
-
-[![](https://raw.githubusercontent.com/musaprg/musaprg/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/musaprg/musaprg/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/musaprg/musaprg/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
