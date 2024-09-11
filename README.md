@@ -32,6 +32,6 @@ For more details, see [mssn.dev](https://mssn.dev)
 ### Contact me
 
 - Email: mail@mssn.dev
-- Twitter: [@musaprg](https://twitter.com/musaprg)
+- X (formerly Twitter): [@musaprg](https://twitter.com/musaprg)
 
 [![](https://raw.githubusercontent.com/musaprg/musaprg/master/github-metrics.svg)](https://github.com/sponsors/musaprg?preview=true)
