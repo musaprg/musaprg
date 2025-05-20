@@ -29,10 +29,12 @@ For more details, see [mssn.dev](https://mssn.dev)
 - [OTelWasm](https://github.com/otelwasm/otelwasm)
 - [runzigc](https://github.com/musaprg/runzigc)
 
-### Contributor
+### Active contributor
 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+- [youki-dev/youki](https://github.com/youki-dev/youki)
+- [youki-dev/oci-spec-rs](https://github.com/youki-dev/oci-spec-rs)
 
 ### Contact me
 
