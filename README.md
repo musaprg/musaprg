@@ -26,8 +26,9 @@ For more details, see [mssn.dev](https://mssn.dev)
 
 ### Author/Maintainer
 
-- [OTelWasm](https://github.com/otelwasm/otelwasm)
-- [runzigc](https://github.com/musaprg/runzigc)
+- [OTelWasm: Wasm plugin for OpenTelemetry Collector](https://github.com/otelwasm/otelwasm)
+- [runzigc: Toy container runtime written in Zig](https://github.com/musaprg/runzigc)
+- [rarejobctl: A tool to automate tutor reservations for the "Rarejob" via CLI](https://github.com/miscord-dev/rarejobctl)
 
 ### Active contributor
 
