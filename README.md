@@ -24,7 +24,12 @@ I'm interested in Containers, Distributed systems, Automation, and Secure comput
 
 For more details, see [mssn.dev](https://mssn.dev)
 
-### Actively working on
+### Author/Maintainer
+
+- [OTelWasm](https://github.com/otelwasm/otelwasm)
+- [runzigc](https://github.com/musaprg/runzigc)
+
+### Contributor
 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
